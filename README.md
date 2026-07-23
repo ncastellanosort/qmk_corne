@@ -1,1 +1,1 @@
-# Corne config with vial
+# Corne config with QMK
